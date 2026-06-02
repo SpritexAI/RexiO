@@ -22,13 +22,13 @@ We encourage developers to build lightweight, easy-to-use wrappers around our ra
 
 ### 3. Submitting Bug Reports & Anomalies
 If you encounter a system anomaly, latency spike, or logical discrepancy in RexiO:
-1. Search existing [Issues](https://github.com/Seizmann/RexiO/issues) to ensure it hasn't been reported yet.
+1. Search existing [Issues](https://github.com/SpritexAI/RexiO/issues) to ensure it hasn't been reported yet.
 2. Open a new issue with a clear, descriptive title.
 3. Provide step-by-step instructions to reproduce the behavior, along with expected vs. actual outcomes and console logs.
 
 ### 4. Suggesting Features & System Upgrades
 Have an idea for a custom agent canvas, secure sandboxed vector storage, or alignment protocol? 
-* Open a thread in our [Discussions Tab](https://github.com/Seizmann/RexiO/discussions).
+* Open a thread in our [Discussions Tab](https://github.com/SpritexAI/RexiO/discussions).
 * Detail the problem you are solving, the proposed workflow, and the desired technical endpoint format.
 * Build consensus with other developers before our core engineering team adopts the roadmap target.
 

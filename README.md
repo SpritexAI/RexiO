@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Seizmann/SpritEXAI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/SpritexAI/RexiO/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /></a>
   <img src="https://img.shields.io/badge/Ecosystem-SpritEX%20AI-black?style=for-the-badge" alt="Ecosystem" />
   <a href="https://rexio.pro.bd"><img src="https://img.shields.io/badge/Flagship-Chat%20Suite-orange?style=for-the-badge" alt="Flagship" /></a>
 </p>
@@ -59,10 +59,10 @@ Since the core engines are closed-source, the community focuses on extending and
 Build, publish, and link custom API clients (Node.js, Python, Go, Rust) or custom chat UI boilerplates. Feel free to submit a Pull Request to list your community library under our README!
 
 ### 2. Bug Reports & Anomaly Tracking
-Encountered an edge-case, system latency spike, or logic discrepancy? Open an issue in our [Issues Tab](https://github.com/Seizmann/RexiO/issues) using our standard bug template. Our core engineering team actively monitors and responds to community tickets.
+Encountered an edge-case, system latency spike, or logic discrepancy? Open an issue in our [Issues Tab](https://github.com/SpritexAI/RexiO/issues) using our standard bug template. Our core engineering team actively monitors and responds to community tickets.
 
 ### 3. Feature & Alignment Requests
-Have an idea for a custom agent canvas, persistent database integration, or safety alignment protocol? Start a thread in the [Discussions Tab](https://github.com/Seizmann/RexiO/discussions) to align requirements with other developers and the core SpritEX team.
+Have an idea for a custom agent canvas, persistent database integration, or safety alignment protocol? Start a thread in the [Discussions Tab](https://github.com/SpritexAI/RexiO/discussions) to align requirements with other developers and the core SpritEX team.
 
 ---
 
