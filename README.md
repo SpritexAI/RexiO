@@ -92,7 +92,7 @@ Have an idea for a new agent, integration, or UX improvement? Start a thread in 
 - [x] **PaySentinel Payment Gateway** — TrxID-based dynamic payment processing with real-time matching.
 
 ### 🔲 In Progress / Planned
-- [ ] **MCP Tool Orchestration** — Model Context Protocol integration for calculator, market, and weather tools via Go service.
+- [ ] **MCP Tool Orchestration** — Model Context Protocol integration for calculator, market, and weather tools.
 - [ ] **High-Velocity SMS Dispatcher** — Real-time SMS webhook alert pipelines for payment and notifications.
 - [ ] **Universal Desktop Admin Console** — Multi-client control center for system monitoring and cognitive safety grids.
 - [ ] **Public Developer API** — Open API access for third-party integrations with rate-limited free tier.
