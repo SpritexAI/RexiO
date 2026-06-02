@@ -12,73 +12,95 @@
   <a href="https://github.com/SpritexAI/RexiO/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /></a>
   <img src="https://img.shields.io/badge/Ecosystem-SpritEX%20AI-black?style=for-the-badge" alt="Ecosystem" />
   <a href="https://rexio.pro.bd"><img src="https://img.shields.io/badge/Flagship-Chat%20Suite-orange?style=for-the-badge" alt="Flagship" /></a>
+  <img src="https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge" alt="Status" />
 </p>
+
 
 ---
 
 ## ⚡ Welcome to the RexiO Developer & User Community!
 
-This public repository serves as the official **Community Hub, Developer Portal, and Issue Tracker** for **RexiO**—the flagship cognitive assistant suite. 
+This public repository serves as the official **Community Hub, Developer Portal, and Issue Tracker** for **RexiO** — the flagship Bangla-first AI assistant suite built by **SpritEX**.
 
-While the underlying orchestration cores, deep reasoning runtimes, and proprietary neural network routing frameworks remain securely closed-source under the stewardship of **SpritEX Research Labs**, this hub is the designated open-ended space for developers, creators, and power-users to collaborate, build integrations, report anomalies, and direct the evolution of personalized digital intelligence.
+While the underlying orchestration cores, deep reasoning runtimes, and proprietary neural network routing frameworks remain securely closed-source under the stewardship of **SpritEX Research Labs**, this hub is the designated open space for developers, creators, and power-users to collaborate, build integrations, report bugs, and shape the future of personalized digital intelligence.
+
+> 💬 **Bangla speakers:** RexiO is built from the ground up for Bangla-first users — supporting Banglish input, native Bangla responses, and a local-first AI experience for Bangladesh and beyond.
 
 ---
 
 ## 🔗 Official Portals & Core Resources
 
-To explore RexiO or integrate its cognitive pipelines into your workflows, use the official endpoints below:
-
-* **📱 Flagship Application Suite:** [rexio.pro.bd](https://rexio.pro.bd) — *Immediate, fluid agent deployments across Android, Web, and Desktop clients.*
-* **🌌 Parent Research Laboratory:** [spritexai.pro.bd](https://spritexai.pro.bd) — *Deep reasoning architectures, algorithmic frameworks, safety paradigms, and developers API console.*
-* **🔑 Developer API Console:** [spritexai.pro.bd/products/api](https://spritexai.pro.bd/products/api) — *Generate credentials, configure rate limits, and access cognitive endpoints.*
-* **⚖️ Legal Disclaimer & Frameworks:** [spritexai.pro.bd/legal/disclaimer](https://spritexai.pro.bd/legal/disclaimer) — *Review active BSL 1.1 license bounds, experimental terms, and roadmap limits.*
+| Portal | Link | Description |
+|---|---|---|
+| 📱 Flagship App Suite | [rexio.pro.bd](https://rexio.pro.bd) | Web PWA + Android client |
+| 🌌 Parent Research Lab | [spritexai.pro.bd](https://spritexai.pro.bd) | SpritEX AI infrastructure & research |
+| 🔑 Developer API Console | [spritexai.pro.bd/products/api](https://spritexai.pro.bd/products/api) | API keys, rate limits, cognitive endpoints |
+| ⚖️ Legal & Licensing | [spritexai.pro.bd/legal/disclaimer](https://spritexai.pro.bd/legal/disclaimer) | BSL 1.1 bounds, terms, roadmap limits |
 
 ---
 
-## 🧱 The RexiO Cognitive Core
-
-RexiO is powered by two distinct systems architectures developed by **SpritEX**:
-
 ### 🚀 RexiO Nova Core (The Nervous System)
-* **Objective:** Real-time routing, dynamic node allocation, and low-latency proxy orchestration.
-* **Metric:** Sub-5ms latency paths mapping specialized enterprise workloads across distributed grids.
-* **Explore:** Learn more at [SpritEX Nova Overview](https://spritexai.pro.bd/products/nova).
+- **Role:** Real-time routing, transparent reverse-proxy, rate limiting, and 0ms-buffer SSE stream pipelines.
+- **Explore:** [SpritEX Nova Overview](https://spritexai.pro.bd/products/nova)
 
 ### 🧠 RexiO Brain Core (The Cerebral Cortex)
-* **Objective:** High-complexity reasoning, deductive graph logic planning, and self-correction backtracking.
-* **Metric:** Persistent state tracking and cognitive memory recall using a 128K token context window.
-* **Explore:** Learn more at [SpritEX Brain Overview](https://spritexai.pro.bd/products/brain).
+- **Role:** Multi-agent AI orchestration, memory recall, web search, image search, and response synthesis.
+- **Explore:** [SpritEX Brain Overview](https://spritexai.pro.bd/products/brain)
+
+---
+
+## 📱 Client Platforms
+
+| Platform | Status |
+|---|---|
+| 🌐 Web PWA | ✅ Live |
+| 📱 Android | ✅ Active Development |
+| 🖥️ Desktop | 🔲 Roadmap |
 
 ---
 
 ## 🛠️ How to Contribute & Collaborate
 
-Since the core engines are closed-source, the community focuses on extending and refining the surrounding ecosystem:
+The core engine is closed-source, but the community builds the ecosystem around it:
 
-### 1. SDKs & Custom API Integrations
-Build, publish, and link custom API clients (Node.js, Python, Go, Rust) or custom chat UI boilerplates. Feel free to submit a Pull Request to list your community library under our README!
+### 1. 🧩 SDKs & Custom API Integrations
+Build and publish custom API clients or chat UI boilerplates. Submit a Pull Request to list your community library in this README.
 
-### 2. Bug Reports & Anomaly Tracking
-Encountered an edge-case, system latency spike, or logic discrepancy? Open an issue in our [Issues Tab](https://github.com/SpritexAI/RexiO/issues) using our standard bug template. Our core engineering team actively monitors and responds to community tickets.
+### 2. 🐛 Bug Reports & Anomaly Tracking
+Encountered an edge-case, latency spike, or broken flow? Open an issue in our [Issues Tab](https://github.com/SpritexAI/RexiO/issues) using the standard bug template. The core team actively monitors and responds.
 
-### 3. Feature & Alignment Requests
-Have an idea for a custom agent canvas, persistent database integration, or safety alignment protocol? Start a thread in the [Discussions Tab](https://github.com/SpritexAI/RexiO/discussions) to align requirements with other developers and the core SpritEX team.
+### 3. 💡 Feature & Alignment Requests
+Have an idea for a new agent, integration, or UX improvement? Start a thread in the [Discussions Tab](https://github.com/SpritexAI/RexiO/discussions) to align with other developers and the SpritEX core team.
 
 ---
 
-## 🗺️ Product Roadmap (2026 - 2027)
+## 🗺️ Product Roadmap (2026 — 2027)
 
-* [x] **Stateful Memory Synchronization** — *Fluid history sync across Android and Web clients.*
-* [x] **Multimodal Agentic Canvases** — *Collaborative workspaces combining code executors and visual generation.*
-* [x] **Sub-Second Voice Orchestration** — *Raw stream cognitive voice pipes via API.*
-* [x] **Decentralized Personal Knowledge Bases** — *Secure, fully sandboxed local-vector databases for complete user privacy.*
-* [ ] **High-Velocity Payment Routing & SMS Dispatcher** — *Unified secure transaction processing and real-time SMS webhook alert pipelines.*
-* [ ] **Universal Desktop Administration Console** — *Advanced multi-client control center for real-time system monitoring and cognitive safety grids.*
+### ✅ Shipped
+- [x] **Stateful Memory Synchronization** — Fluid session history sync across Android and Web clients.
+- [x] **Banglish Input Support** — Native Banglish-to-Bangla translation layer in the AI pipeline.
+- [x] **Real-Time Web & Image Search** — DuckDuckGo-powered live search agent with inline image results.
+- [x] **Live Voice Chat** — Real-time voice interaction interface on Web and Android.
+- [x] **Credit & Subscription System** — Rolling 24h credit pools with per-intent billing weights.
+- [x] **PaySentinel Payment Gateway** — TrxID-based dynamic payment processing with real-time matching.
+
+### 🔲 In Progress / Planned
+- [ ] **MCP Tool Orchestration** — Model Context Protocol integration for calculator, market, and weather tools.
+- [ ] **High-Velocity SMS Dispatcher** — Real-time SMS webhook alert pipelines for payment and notifications.
+- [ ] **Universal Desktop Admin Console** — Multi-client control center for system monitoring and cognitive safety grids.
+- [ ] **Public Developer API** — Open API access for third-party integrations with rate-limited free tier.
 
 ---
 
 ## 📄 Licensing & Open-Source Terms
 
-The resources, documentation, boilerplate integrations, and SDKs hosted in this public repository are licensed under the **MIT License**. 
+The resources, documentation, boilerplate integrations, and community SDKs in this repository are licensed under the **MIT License**.
 
-*The underlying systems architectures (Nova & Brain) remain protected under the proprietary Business Source License 1.1 (BSL) of SpritEX, automatically transitioning to open-source (MIT) on July 10, 2030.*
+*The underlying systems architectures (Nova Core & Brain Core) remain protected under the proprietary **Business Source License 1.1 (BSL)** of SpritEX AI, automatically transitioning to open-source (MIT) on **July 10, 2030**.*
+
+---
+
+<p align="center">
+  Built with ❤️ in Bangladesh by <a href="https://spritexai.pro.bd">SpritEX AI</a>
+</p>
+
