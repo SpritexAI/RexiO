@@ -1,7 +1,7 @@
 # 🌌 RexiO: AI That Knows You — Community Hub & Developer Portal
 
 <p align="center">
-  <img src="https://spritexai.pro.bd/brand/spritex_core_icon.png" alt="RexiO Logo" width="120" style="border-radius: 24px;" />
+  <img src="https://rexio.pro.bd/icons/rexio_core_icon_mini.svg" alt="RexiO Logo" width="120" />
 </p>
 
 <p align="center">
