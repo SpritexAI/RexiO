@@ -66,12 +66,14 @@ Have an idea for a custom agent canvas, persistent database integration, or safe
 
 ---
 
-## 🗺️ Product Roadmap (2026)
+## 🗺️ Product Roadmap (2026 - 2027)
 
 * [x] **Stateful Memory Synchronization** — *Fluid history sync across Android and Web clients.*
-* [ ] **Multimodal Agentic Canvases** — *Collaborative workspaces combining code executors and visual generation.*
-* [ ] **Sub-Second Voice Orchestration** — *Raw stream cognitive voice pipes via API.*
-* [ ] **Decentralized Personal Knowledge Bases** — *Secure, fully sandboxed local-vector databases for complete user privacy.*
+* [x] **Multimodal Agentic Canvases** — *Collaborative workspaces combining code executors and visual generation.*
+* [x] **Sub-Second Voice Orchestration** — *Raw stream cognitive voice pipes via API.*
+* [x] **Decentralized Personal Knowledge Bases** — *Secure, fully sandboxed local-vector databases for complete user privacy.*
+* [ ] **High-Velocity Payment Routing & SMS Dispatcher** — *Unified secure transaction processing and real-time SMS webhook alert pipelines.*
+* [ ] **Universal Desktop Administration Console** — *Advanced multi-client control center for real-time system monitoring and cognitive safety grids.*
 
 ---
 
