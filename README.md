@@ -71,7 +71,7 @@ While the underlying orchestration cores, deep reasoning runtimes, and proprieta
 The core engine is closed-source, but the community builds the ecosystem around it:
 
 ### 1. 🧩 SDKs & Custom API Integrations
-Build and publish custom API clients (Node.js, Python, Go, Rust) or chat UI boilerplates. Submit a Pull Request to list your community library in this README.
+Build and publish custom API clients or chat UI boilerplates. Submit a Pull Request to list your community library in this README.
 
 ### 2. 🐛 Bug Reports & Anomaly Tracking
 Encountered an edge-case, latency spike, or broken flow? Open an issue in our [Issues Tab](https://github.com/SpritexAI/RexiO/issues) using the standard bug template. The core team actively monitors and responds.
