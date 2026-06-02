@@ -1,7 +1,7 @@
 # 🌌 RexiO: AI That Knows You — Community Hub & Developer Portal
 
 <p align="center">
-  <img src="https://rexio.pro.bd/icons/rexio_core_icon_mini.svg" alt="RexiO Logo" width="120" />
+  <img src="https://rexio.pro/icons/rexio_core_icon_mini.svg" alt="RexiO Logo" width="120" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/SpritexAI/RexiO/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /></a>
   <img src="https://img.shields.io/badge/Ecosystem-SpritEX%20AI-black?style=for-the-badge" alt="Ecosystem" />
-  <a href="https://rexio.pro.bd"><img src="https://img.shields.io/badge/Flagship-Chat%20Suite-orange?style=for-the-badge" alt="Flagship" /></a>
+  <a href="https://rexio.pro"><img src="https://img.shields.io/badge/Flagship-Chat%20Suite-orange?style=for-the-badge" alt="Flagship" /></a>
   <img src="https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge" alt="Status" />
 </p>
 
@@ -32,7 +32,7 @@ While the underlying orchestration cores, deep reasoning runtimes, and proprieta
 
 | Portal | Link | Description |
 |---|---|---|
-| 📱 Flagship App Suite | [rexio.pro.bd](https://rexio.pro.bd) | Web PWA + Android client |
+| 📱 Flagship App Suite | [rexio.pro](https://rexio.pro) | Web PWA + Android client |
 | 🌌 Parent Research Lab | [spritexai.pro.bd](https://spritexai.pro.bd) | SpritEX AI infrastructure & research |
 | 🔑 Developer API Console | [spritexai.pro.bd/products/api](https://spritexai.pro.bd/products/api) | API keys, rate limits, cognitive endpoints |
 | ⚖️ Legal & Licensing | [spritexai.pro.bd/legal/disclaimer](https://spritexai.pro.bd/legal/disclaimer) | BSL 1.1 bounds, terms, roadmap limits |
